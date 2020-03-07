@@ -23,7 +23,7 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 **以下链接的排列顺序由推荐指数决定，建议优先选择排名靠前的链接。**
 **以下未被认领的未知来源链接，可通过出示相关证明信息的方法领取**
 1. [Project Hugo](https://projecthugo.space/)——该通道由[@alanyhq](https://weibo.com/yhq20050916)提供，可在[充电](https://projecthugo.jerryang.space/like/)进行捐赠。
-2. [IP-ADD](https://154.213.21.125/)——该通道由[@江湖人称花Q](https://weibo.com/577117541)提供，暂无捐赠需求。
+2. [IP-ADD](http://154.213.21.125/)——该通道由[@江湖人称花Q](https://weibo.com/577117541)提供，暂无捐赠需求。
 3. [AO3NET](https://archiveofourown.net/)——由穷举法得出，来源未知
 4. [AO3FANS](https://ao3fans.com/)——该通道由[233](https://github.com/233boy)提供
 5. [AO3ORGCN](https://ao3.org.cn/)——由穷举法得出，来源未知
