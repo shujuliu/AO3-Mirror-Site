@@ -22,29 +22,39 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 **以下链接均为非官方链接，可能存在风险。**
 **以下链接的排列顺序由推荐指数决定，建议优先选择排名靠前的链接。**
 **以下未被认领的未知来源链接，可通过出示相关证明信息的方法领取**
-1. [Project Hugo](https://projecthugo.tech/)——该通道由[@alanyhq](https://weibo.com/yhq20050916)提供，可在[充电](https://projecthugo.jerryang.space/like/)进行捐赠。
+##独立镜像
+1. [Project Hugo](https://www.projecthugo.top/)——该通道由[@alanyhq](https://weibo.com/yhq20050916)提供，暂无捐赠需求。
 2. [IP-ADD](http://154.213.21.125/)——该通道由[@江湖人称花Q](https://weibo.com/577117541)提供，暂无捐赠需求。
-3. [AO3NET](https://archiveofourown.net/)——由穷举法得出，来源未知
-4. [AO3FANS](https://ao3fans.com/)——该通道由[233](https://github.com/233boy)提供
-5. [AO3ORGCN](https://ao3.org.cn/)——由穷举法得出，来源未知
-6. [AO3XYZ](https://archiveofourown.xyz/)——由穷举法得出，来源未知
-7. [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知
+3. [ArchiveO3](https://archiveo3.xyz/)——该通道由[ArchiveO3](mailto:ao3_goon_cn@protonmail.com)提供，暂无捐赠需求。
+4. [AO3FANS](https://ao3fan.com/)——该通道由[233](https://github.com/233boy)提供。
+5. [AO3ORGCN](https://ao3.org.cn/)——由穷举法得出，来源未知。
+6. [AO3XYZ](https://archiveofourown.xyz/)——由穷举法得出，来源未知。
+7. [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知。
+8. [ZILLAGRAM](http://zillagram.net/)——由穷举法得出，来源未知。
+9. [STRESSERCHINA](http://stresserchina.com/)——由穷举法得出，来源未知。
+##复合镜像
+###由ChinaNovel.DE发布
+####主要线路
+1. [AO3.YOURSEOBOOK.XYZ](https://ao3.yourseobook.xyz/)
+2. [AO3-2.YOURSEOBOOK.XYZ](https://ao3-2.yourseobook.xyz/)
+####香港双线
+1. [AO3-4.YOURSEOBOOK.XYZ](https://ao3-4.yourseobook.xyz/)
 
 # 注意事项
 1. 建议收藏本项目以获得最新的镜像网址信息。
 2. 当遇到Retry Later时可通过Ctrl+F5刷新，若多次刷新无果，建议选择另一个镜像网址。
 
 # Q&A
-Q:我可以加入吗？请问如何加入？
+Q:我可以加入吗？请问如何加入？     
 A:Sure，每个人都可以。通过提[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)的方式申请，建议附上联系方式。
 
-Q:地址无法进入一直转圈圈怎么办？
+Q:地址无法进入一直转圈圈怎么办？     
 A:多次确认，更换浏览器也无法进入时，说明地址问题，考虑更换地址并提交[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)或发送邮件至shujuliu@protonmail.com
 
-Q:这个文档出现信息错误怎么办，我希望更新这个文档怎么办？
+Q:这个文档出现信息错误怎么办，我希望更新这个文档怎么办？     
 A:可以选择提交[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)或发送邮件至shujuliu@protonmail.com
 
-Q:哦天哪，Q&A中没有我想要问的问题该怎么办？
+Q:哦天哪，Q&A中没有我想要问的问题该怎么办？     
 A:可以选择提交[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)或发送邮件至shujuliu@protonmail.com
 
 
