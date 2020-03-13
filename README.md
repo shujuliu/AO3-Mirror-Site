@@ -1,4 +1,4 @@
-**内容更新于：2020/03/13 15:28**
+**内容更新于：2020/03/13 15:33**
 # 前置彩蛋（二创自《刺客信条》）
 * 我们是无形者，我们是守护者。
 * 当世人被物质或事件的外表所迷惑，盲目追求虚幻的现实之时，请记住：万物皆虚。
@@ -32,22 +32,12 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 5. [AO4TOP](https://ao4.top/)——该通道由[@雅美城城主](https://weibo.com/u/6693225582)提供，从微博AO3超话中收集
 6. [AO3CNTOP](https://ao3-cn.top/)——该通道由[@FutureAppleWei](https://weibo.com/u/5943706594)提供，从微博AO3超话中收集
 7. [AO3PW](https://ao3.pw/)——该通道由[ExcitedCodes](https://github.com/ExcitedCodes)提供
-8. [AO3ORGCN](https://ao3.org.cn/)——由穷举法得出，来源未知
-9. [AO3XYZ](https://archiveofourown.xyz/)——由穷举法得出，来源未知
-10. [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知
-11. [ZILLAGRAM](http://zillagram.net/)——由穷举法得出，来源未知
-12. [STRESSERCHINA](http://stresserchina.com/)——由穷举法得出，来源未知
-
-## 复合镜像
-
-### 由ChinaNovel.DE发布
-
-#### 主要线路
-1. [AO3.YOURSEOBOOK.XYZ](https://ao3.yourseobook.xyz/)
-2. [AO3-2.YOURSEOBOOK.XYZ](https://ao3-2.yourseobook.xyz/)
-
-#### 香港双线
-1. [AO3-4.YOURSEOBOOK.XYZ](https://ao3-4.yourseobook.xyz/)
+8. [AO3YOURSEOBOOKXYZ](https://ao3.yourseobook.xyz/)——该通道由[ChinaNovel.DE](https://ao3-bbs.chinanovel.de/)提供
+9. [AO3ORGCN](https://ao3.org.cn/)——由穷举法得出，来源未知
+10. [AO3XYZ](https://archiveofourown.xyz/)——由穷举法得出，来源未知
+11. [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知
+12. [ZILLAGRAM](http://zillagram.net/)——由穷举法得出，来源未知
+13. [STRESSERCHINA](http://stresserchina.com/)——由穷举法得出，来源未知
 
 ## 镜像搭建方法
 1. [URLOfOurOwn](https://github.com/ExcitedCodes/URLOfOurOwn)——该方法由[ExcitedCodes](https://github.com/ExcitedCodes)提供
