@@ -1,4 +1,4 @@
-**内容更新于：2020/03/13 01:12**
+**内容更新于：2020/03/13 15:28**
 # 前置彩蛋（二创自《刺客信条》）
 * 我们是无形者，我们是守护者。
 * 当世人被物质或事件的外表所迷惑，盲目追求虚幻的现实之时，请记住：万物皆虚。
@@ -28,7 +28,7 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 1. Project Hugo——暂时关闭
 2. [IP-ADD](http://154.213.21.125/)——该通道由[@江湖人称花Q](https://weibo.com/577117541)提供，当前已被其搭建者设定安全密码，加入QQ群：465951967获取，暂无捐赠需求
 3. ArchiveO3——暂时关闭
-4. [AO3FANS](https://ao3fan.com/)——该通道由[233](https://github.com/233boy)提供
+4. [PIG123XYZ](https://pig123.xyz/)——该通道由[233](https://github.com/233boy)提供
 5. [AO4TOP](https://ao4.top/)——该通道由[@雅美城城主](https://weibo.com/u/6693225582)提供，从微博AO3超话中收集
 6. [AO3CNTOP](https://ao3-cn.top/)——该通道由[@FutureAppleWei](https://weibo.com/u/5943706594)提供，从微博AO3超话中收集
 7. [AO3PW](https://ao3.pw/)——该通道由[ExcitedCodes](https://github.com/ExcitedCodes)提供
