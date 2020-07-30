@@ -36,7 +36,6 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 - [TANIOSHIZUEPW](http://ao3.tanioshizue.pw/)——该通道由[imgzkshuo221](https://github.com/imgzkshuo221)提供,从Github Issues收集
 
 ### 未公开的镜像
-- [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知
 
 
 ### 失效链接
@@ -46,6 +45,7 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 - [AO4TOP](https://ao4.top/)——该通道由[@雅美城城主](https://weibo.com/u/6693225582)提供，从微博AO3超话中收集
 - [VIAHYPOTHESIS](https://via.hypothes.is/https://archiveofourown.org/)——从微博AO3超话中收集，来源未知
 - [AO3MIRROR3CHINANOVELDE](https://ao3-mirror-3.chinanovel.de/)——该通道由[ChinaNovel.DE](https://ao3-bbs.chinanovel.de/)提供
+- [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知
 
 ## 镜像搭建方法
 1. [URLOfOurOwn](https://github.com/ExcitedCodes/URLOfOurOwn)——该方法由[ExcitedCodes](https://github.com/ExcitedCodes)提供
