@@ -1,8 +1,5 @@
-**内容更新于：2021/10/06 20:20**
+**内容更新于：2021/10/06 20:38**
 # 前置彩蛋（二创自《刺客信条》）
-
-[![Join the chat at https://gitter.im/shujuliu/AO3公开](https://badges.gitter.im/shujuliu/AO3公开.svg)](https://gitter.im/shujuliu/AO3公开?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 * 我们是无形者，我们是守护者。
 * 当世人被物质或事件的外表所迷惑，盲目追求虚幻的现实之时，请记住：万物皆虚。
 * 信仰万物皆虚，意识到社会的基础是脆弱的，我们必须成为自身文明的守护者。
