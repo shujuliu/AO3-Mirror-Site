@@ -1,4 +1,4 @@
-**内容更新于：2020/03/31 23:05**
+**内容更新于：2021/10/06 20:20**
 # 前置彩蛋（二创自《刺客信条》）
 * 我们是无形者，我们是守护者。
 * 当世人被物质或事件的外表所迷惑，盲目追求虚幻的现实之时，请记住：万物皆虚。
@@ -18,7 +18,8 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 # 关于本项目
 本项目致力于在AO3被屏蔽期间，保证其可访问性。
 本项目由[数据流](https://github.com/orgs/shujuliu)的AO3 Rebirth Team维护。
-
+本项目的微博**数据流ShuJuLiu**目前已被封禁，因此信息传送受到阻碍。
+本项目目前使用Gitter作为即时互动平台，链接为[![Gitter](https://badges.gitter.im/shujuliu/AO3公开.svg)](https://gitter.im/shujuliu/AO3公开?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # 镜像网站
 **以下链接均为非官方链接，可能存在风险。**
 **以下链接的排列顺序由推荐指数决定，建议优先选择排名靠前的链接。**
@@ -27,20 +28,15 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 ## 独立镜像
 
 ### 已公开的镜像
-- [NIGHTALKSPACE](https://nightalk.space/)——该通道由某个匿名志愿者提供
-- [PIG123XYZ](https://pig123.xyz/)——该通道由[233](https://github.com/233boy)提供
-- [AO3WTF](https://ao3.wtf/)——该通道由[ExcitedCodes](https://github.com/ExcitedCodes)提供
-- [AO4TOP](https://ao4.top/)——该通道由[@雅美城城主](https://weibo.com/u/6693225582)提供，从微博AO3超话中收集
+- [NIGHTALK](nightalk.top)——该通道由[Nightalk.org](nightalk.org)提供
 - [AO3CNTOP](https://ao3-cn.top/)——该通道由[FutureAppleWei](https://lo-li.icu/archives/AO3.html)提供，从微博AO3超话中收集
 - [AO3PW](https://ao3.pw/)——该通道由[RikaSugisawa](https://github.com/RikaSugisawa)提供
-- [VIAHYPOTHESIS](https://via.hypothes.is/https://archiveofourown.org/)——从微博AO3超话中收集，来源未知
-- [PROJECTSTARDUST](https://www.projectstardust.org/)——该通道由[SorenEricMent](https://www.winsloweric.cn/)提供，从知乎中收集
-- [AO32YOURSEOBOOKXYZ](https://ao3-2.yourseobook.xyz/)——该通道由[ChinaNovel.DE](https://ao3-bbs.chinanovel.de/)提供
-- [AO3MIRROR3CHINANOVELDE](https://ao3-mirror-3.chinanovel.de/)——该通道由[ChinaNovel.DE](https://ao3-bbs.chinanovel.de/)提供
+- [AO3子曰](ao3.子曰.tk)——该通道由[SiberiaApp](https://github.com/SiberiaApp)提供
+- [AOTHREE](www.aothree.club)——该通道由[Aothree.club](https://guide.aothree.club/)提供
 
 ### 未公开的镜像
-- [AO3ORGCN](https://ao3.org.cn/)——由穷举法得出，来源未知
-- [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知
+- [AO3AMMMMOMO](https://ao3.ammmmomo.workers.dev/)——由穷举法得出，来源未知
+- [AO3INSKY](https://ao3.insky.jp/)——由穷举法得出，来源未知
 
 
 ## 镜像搭建方法
@@ -51,6 +47,9 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 2. 当遇到Retry Later时可通过Ctrl+F5刷新，若多次刷新无果，建议选择另一个镜像网址。
 
 # Q&A
+Q:如何认领未署名的镜像？
+A:提交[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)或发送邮件至shujuliu@protonmail.com
+
 Q:我可以加入吗？请问如何加入？     
 A:Sure，每个人都可以。通过提[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)的方式申请，建议附上联系方式。
 
