@@ -28,13 +28,13 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 ## 独立镜像
 
 ### 已公开的镜像
-- [NIGHTALK](nightalk.top)——该通道由[Nightalk.org](nightalk.org)提供
-- [AO3CNTOP](ao3-cn.top)——该通道由[FutureAppleWei](https://lo-li.icu/archives/AO3.html)提供，从微博AO3超话中收集
-- [AO3PW](ao3.pw)——该通道由[RikaSugisawa](https://github.com/RikaSugisawa)提供
-- [AO3子曰](ao3.子曰.tk)——该通道由[SiberiaApp](https://github.com/SiberiaApp)提供
-- [AOTHREE](www.aothree.club)——该通道由[Aothree.club](https://guide.aothree.club/)提供
-- [6IMGAM](www6.imgam.top)——该通道由[ATai1312](https://weibo.com/u/7368975132)提供
-- [LYZW](www.lyzw.xyz)——该通道由[凌云中文网](https://hxiezhen.xyz/)提供
+- [NIGHTALK](https://nightalk.top)——该通道由[Nightalk.org](nightalk.org)提供
+- [AO3CNTOP](https://ao3-cn.top)——该通道由[FutureAppleWei](https://lo-li.icu/archives/AO3.html)提供，从微博AO3超话中收集
+- [AO3PW](https://ao3.pw)——该通道由[RikaSugisawa](https://github.com/RikaSugisawa)提供
+- [AO3子曰](https://ao3.子曰.tk)——该通道由[SiberiaApp](https://github.com/SiberiaApp)提供
+- [AOTHREE](https://www.aothree.club)——该通道由[Aothree.club](https://guide.aothree.club/)提供
+- [6IMGAM](https://www6.imgam.top)——该通道由[ATai1312](https://weibo.com/u/7368975132)提供
+- [LYZW](https://www.lyzw.xyz)——该通道由[凌云中文网](https://hxiezhen.xyz/)提供
 
 ### 未公开的镜像
 - [AO3AMMMMOMO](https://ao3.ammmmomo.workers.dev/)——由穷举法得出，来源未知
